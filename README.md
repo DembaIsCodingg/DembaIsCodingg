@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Demba SOumare</h1>
 <h3 align="center">A passionate Full Stack Software Developer from Canada</h3>
 
-<img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dembaiscodingg&label=Profile%20views&color=0e75b6&style=flat" alt="dembaiscodingg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dembaiscodingg" alt="dembaiscodingg" /></a> </p>
 
 - 🔭 I’m currently working on **my 100Hour project**
 
